@@ -1,4 +1,4 @@
-# F-rmula-de-Bhaskara
+# Formula-de-Bhaskara
 beecrowd
 
 beecrowd | 1036
